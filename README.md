@@ -11,7 +11,7 @@ int value = 0;
 
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
-String matriculas[6] = {"202261809", "202222118", "202249292", "202232545", "202282041"," 202279506"};
+String matriculas[6] = {"2022", "2022", "2022", "2022", "2022"," 2022"};
 
 //ìndice de la matricula actual
 int currentIndex=0;
