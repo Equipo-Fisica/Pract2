@@ -15,7 +15,7 @@ void setup() {
 }
 
 void loop() {
-  long matriculas[] = {2022, 2022, 202279506, 2022, 2022, 2022};
+  long matriculas[] = {2022, 2022, 2022, 2022, 2022, 2022};
 
   for (int i = 0; i < 6; i++) {
     lcd.clear();
@@ -31,3 +31,5 @@ void loop() {
   lcd.clear();
   delay(2000);
 }
+    
+   
